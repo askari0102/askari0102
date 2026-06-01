@@ -5,8 +5,8 @@
 <!-- ABOUT -->
 ## `$ whoami`
 
-Passionate about DevOps, cloud infrastructure, and automation.
-Currently open to opportunities.
+DevOps Engineer who learned through bootcamp, courses, and a lot of late-night tinkering —
+with a deep interest in how systems scale, fail, and recover.
 
 ---
 
