@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<img src="./images/header.svg" width="100%" alt="Terminal Header">
+<img src="./images/svg/header.svg" width="100%" alt="Terminal Header">
